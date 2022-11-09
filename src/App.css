@@ -1,0 +1,45 @@
+body{
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+    color: white;
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+    font-family: 'Roboto Mono', monospace;
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    letter-spacing: 6px;
+    margin-right: 40px;
+}
+.delteInput{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+}
+button{
+    border: none;
+    color: white;
+    background-color: Transparent;
+    font-family: 'Roboto Mono', monospace;
+    padding: 20px;
+    text-align: center;
+}
+button:hover{
+    color: blue;
+}
+input{
+    min-height: 5vh;
+
+}
+button :hover{
+    color: blue;
+}
+ul{
+    list-style-type: none;
+    text-decoration: none;
+}
